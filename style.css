@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+    background-color: rgb(218, 235, 250);
+
+}
+h2 {
+    font-family: 'Jost', cursive;
+    font-size: 40px;
+    color: rgb(82, 127, 218);
+    margin-top: 0;
+}
+.day {
+    font-size: 20px;
+    font-family: 'jost';
+}
+.times {
+    font-family: 'jost';
+    font-size: 20px;
+    color: black;
+}
